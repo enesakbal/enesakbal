@@ -1,16 +1,28 @@
-### Hi there 👋
+## Flutter Developer
+- **Clean Architecture**
+- **Firebase**
+- **State management:** BLoC, Provider, MobX
+- **Design Patterns:** MVVM, Singleton, Adapter
+- **App Tracking:** Google Analytics, Sentry, AppsFlyer
+- **Git Version Control**
+- **App submission to PlayStore and AppStore**
 
-<!--
-**enesakbal/enesakbal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://github-readme-stats.vercel.app/api?username=enesakbal&theme=dark&show_icons=true)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=enesakbal&theme=dark)](https://git.io/streak-stats)
+
+## Contact
+[![linkedin](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/enes-akbal-b536061a1)
+[![medium](https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@enesakbal00)
+
+---
+![](https://media.giphy.com/media/4n8I4KcHjV7hob4M9J/giphy.gif)
+---
+
+
+
+
+[![](https://visitcount.itsvg.in/api?id=enesakbal&label=Profile%20Views&color=12&icon=2&pretty=false)](https://visitcount.itsvg.in)
