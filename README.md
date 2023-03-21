@@ -12,8 +12,6 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=enesakbal&theme=dark&show_icons=true)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=enesakbal&theme=dark)](https://git.io/streak-stats)
-
 ## Contact
 [![linkedin](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/enes-akbal-b536061a1)
 [![medium](https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@enesakbal00)
