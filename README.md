@@ -1,11 +1,3 @@
-## Flutter Developer
-- **Clean Architecture**
-- **Firebase**
-- **State management:** BLoC, Provider, MobX
-- **Design Patterns:** MVVM, Singleton, Adapter
-- **App Tracking:** Google Analytics, Sentry, AppsFlyer
-- **Git Version Control**
-- **App submission to PlayStore and AppStore**
 
 
 ## Stats
